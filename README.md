@@ -77,37 +77,37 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/hieuphan97/Retail Sales Performance Analytics">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-sales.svg" alt="Sales Performance Analysis" width="100%"/>
+      <a href="https://github.com/hieuphan97/Retail-Sales-Performance-Analytics">
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-sales.svg?v=2" alt="Retail-Sales-Performance-Analytics" width="100%"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hieuphan97/marketing-campaign-2023">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-marketing.svg" alt="Marketing Campaign 2023" width="100%"/>
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-marketing.svg?v=2" alt="Marketing Campaign 2023" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/hieuphan97/E-commerce Customer Segmentation & RFM Analysis">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-rfm.svg" alt="Customer Segmentation RFM" width="100%"/>
+      <a href="https://github.com/hieuphan97/E-commerce-Customer-Segmentation-RFM-Analysis">
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-rfm.svg?v=2" alt="Customer Segmentation RFM" width="100%"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hieuphan97/E-Commerce-customer-churn-prediction-segmentation">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-churn.svg" alt="Churn Prediction" width="100%"/>
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-churn.svg?v=2" alt="E-Commerce-customer-churn-prediction-segmentation" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/hieuphan97/ecommerce-analytics-bigquery">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-bigquery.svg" alt="Ecommerce Analytics BigQuery" width="100%"/>
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-bigquery.svg?v=2" alt="Ecommerce Analytics BigQuery" width="100%"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/hieuphan97/Retail Sales & Operations Business Intelligence">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-adventureworks.svg" alt="AdventureWorks SQL Analysis" width="100%"/>
+      <a href="https://github.com/hieuphan97/Retail-Sales-Operations-Business-Intelligence">
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-adventureworks.svg?v=2" alt="AdventureWorks SQL Analysis" width="100%"/>
       </a>
     </td>
   </tr>
