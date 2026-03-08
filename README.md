@@ -77,13 +77,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/hieuphan97/Retail-Sales-Performance-Analytics">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-sales.svg?v=2" alt="Retail-Sales-Performance-Analytics" width="100%"/>
+      <a href="https://github.com/hieuphan97/marketing-campaign-2023">
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-marketing.svg?v=2" alt="Marketing Campaign 2023" width="100%"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/hieuphan97/marketing-campaign-2023">
-        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-marketing.svg?v=2" alt="Marketing Campaign 2023" width="100%"/>
+      <a href="https://github.com/hieuphan97/Retail-Sales-Performance-Analytics">
+        <img src="https://cdn.jsdelivr.net/gh/hieuphan97/hieuphan97@main/cards/card-sales.svg?v=2" alt="Retail-Sales-Performance-Analytics" width="100%"/>
       </a>
     </td>
   </tr>
