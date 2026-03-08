@@ -1,0 +1,65 @@
+<svg width="600" height="240" viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-mkt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1f1a"/>
+      <stop offset="100%" style="stop-color:#0a1a14"/>
+    </linearGradient>
+    <linearGradient id="accent-mkt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1db87a"/>
+      <stop offset="100%" style="stop-color:#56e8a8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="240" rx="12" fill="url(#bg-mkt)"/>
+
+  <!-- Top & left accent bars -->
+  <rect width="600" height="4" rx="2" fill="url(#accent-mkt)"/>
+  <rect x="0" y="0" width="4" height="240" rx="2" fill="url(#accent-mkt)"/>
+
+  <!-- Power BI icon (small bar chart) -->
+  <rect x="28" y="28" width="16" height="16" rx="2" fill="#1db87a" opacity="0.9"/>
+  <rect x="31" y="36" width="2.5" height="5" fill="#0d1f1a"/>
+  <rect x="34.5" y="33" width="2.5" height="8" fill="#0d1f1a"/>
+  <rect x="38" y="31" width="2.5" height="10" fill="#0d1f1a"/>
+
+  <!-- Title -->
+  <text x="52" y="41" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#1db87a">Digital Marketing Campaign Performance Analytics</text>
+
+  <!-- Divider -->
+  <line x1="28" y1="58" x2="572" y2="58" stroke="#1db87a" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Description -->
+  <text x="28" y="85" font-family="'Courier New', monospace" font-size="12" fill="#c8d4d0" opacity="0.85">Built a 4-page Power BI dashboard analyzing multi-channel ad</text>
+  <text x="28" y="103" font-family="'Courier New', monospace" font-size="12" fill="#c8d4d0" opacity="0.85">performance across 3 platforms &amp; 3 UK cities · Star Schema</text>
+  <text x="28" y="121" font-family="'Courier New', monospace" font-size="12" fill="#c8d4d0" opacity="0.85">(5 tables, 15+ DAX) · £1.73M revenue · ROI 960.77%</text>
+
+  <!-- KPI chips -->
+  <rect x="28" y="140" width="82" height="22" rx="11" fill="#1db87a" fill-opacity="0.12" stroke="#1db87a" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="69" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#1db87a">ROI: 960.77%</text>
+
+  <rect x="118" y="140" width="78" height="22" rx="11" fill="#1db87a" fill-opacity="0.12" stroke="#1db87a" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="157" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#1db87a">CVR: 22.17%</text>
+
+  <rect x="204" y="140" width="66" height="22" rx="11" fill="#1db87a" fill-opacity="0.12" stroke="#1db87a" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="237" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#1db87a">CPA: £2.45</text>
+
+  <rect x="278" y="140" width="68" height="22" rx="11" fill="#1db87a" fill-opacity="0.12" stroke="#1db87a" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="312" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#1db87a">£1.73M Rev</text>
+
+  <!-- Bottom divider -->
+  <line x1="28" y1="185" x2="572" y2="185" stroke="#1db87a" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Footer: tools -->
+  <circle cx="36" cy="207" r="7" fill="#1db87a" opacity="0.85"/>
+  <text x="50" y="212" font-family="'Courier New', monospace" font-size="12" fill="#8ba79e">Power BI</text>
+
+  <circle cx="120" cy="207" r="7" fill="#1db87a" opacity="0.6"/>
+  <text x="134" y="212" font-family="'Courier New', monospace" font-size="12" fill="#8ba79e">DAX</text>
+
+  <circle cx="180" cy="207" r="7" fill="#1db87a" opacity="0.6"/>
+  <text x="194" y="212" font-family="'Courier New', monospace" font-size="12" fill="#8ba79e">Excel</text>
+
+  <circle cx="242" cy="207" r="7" fill="#1db87a" opacity="0.6"/>
+  <text x="256" y="212" font-family="'Courier New', monospace" font-size="12" fill="#8ba79e">Star Schema</text>
+</svg>
